@@ -1,4 +1,4 @@
-# How to Debug Java with VSCode
+# How to Debug Java with VS Code
 
 ## Summary
 
