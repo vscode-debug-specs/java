@@ -1,8 +1,3 @@
----
-title: How to Debug Java with VSCode
-permalink: /
----
-
 # How to Debug Java with VSCode
 
 ## Summary
